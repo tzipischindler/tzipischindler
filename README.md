@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Tzipi Schindler
 
-<!--
-**tzipischindler/tzipischindler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Product Manager · Practical dreamer turning ideas into useful tools, better decisions, and stronger communities.
 
-Here are some ideas to get you started:
+> Let’s build useful things, stronger communities, and a better world—together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I want to help create safe, collaborative environments where people can be themselves and thrive—without losing sight of business needs or the importance of strategic prioritization.
+
+These days, I’m not only thinking about those ideas—I’m building with them. My projects explore developer experience, product decision-making, community problem-solving, and hope-driven leadership.
+
+I’m a practical dreamer who enjoys turning ideas into useful tools, better decisions, and stronger communities.
+
+## Selected work
+
+### [Hope-Driven Leadership](https://github.com/tzipischindler/hope-driven-leadership)
+
+A personal business card and interactive portfolio that introduces the skills, experience, values, and ways of thinking I bring to organizations.
+
+It reflects my approach to helping companies improve collaboration, team health, product strategy, and the way software gets delivered.
+
+### [Elevate DevEx Metric Discovery](https://github.com/tzipischindler/elevate-devex-metric-discovery)
+
+A discovery tool for product and engineering teams to identify which Developer Experience metric they should start tracking.
+
+It helps teams explore the relationship between technical debt, delivery practices, organizational decisions, and the day-to-day health of engineering work. The tool turns the result into a presentation and a team survey, making it easier to bring different perspectives into the conversation and decide what to improve together.
+
+> Use it with your team to start a more meaningful conversation about DevEx.
+
+### [Elevate Idea Scorer](https://github.com/tzipischindler/elevate-idea-scorer)
+
+A flexible rubric for deciding which idea or project to pursue next.
+
+Inspired by the Lean Canvas, it helps compare ideas across problem clarity, solution strength, unique value, unfair advantage, customer segments, existing alternatives, feasibility, audience relatability, and career or portfolio fit.
+
+Created for a hackathon and shared with the community, it reflects my approach to product thinking: strategic and evidence-informed, while still making space for personal experience, values, and purpose.
+
+## What I care about
+
+- Building safe, collaborative environments where people can thrive
+- Connecting product strategy with sustainable ways of working
+- Making technical debt and developer experience easier to discuss across teams
+- Turning ambiguous ideas into useful experiments and shared understanding
+- Creating with communities, not just for them
+- Leaving space for hope, curiosity, and better possibilities
+
+## Let’s connect
+
+- [LinkedIn](https://www.linkedin.com/in/tzipi-schindler/)
+
+Open to conversations about product strategy, team health, developer experience, and community-driven work.
