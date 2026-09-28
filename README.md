@@ -1,8 +1,8 @@
 # Hi, I'm Tzipi Schindler
 
-### Technical Product Manager · Practical dreamer turning ideas into useful tools, better decisions, and stronger communities.
+### Practical dreamer that oscillates from having important conversations to making change happen.
 
-> Let’s build useful things, stronger communities, and a better world—together.
+> Let’s turn impactful ideas into a reality, for a better world.
 
 ## About me
 
