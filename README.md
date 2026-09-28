@@ -20,6 +20,7 @@ A personal business card and interactive portfolio that introduces the skills, e
 It reflects my approach to helping companies improve collaboration, team health, product strategy, and the way software gets delivered.
 
 ### [Elevate DevEx Metric Discovery](https://github.com/tzipischindler/elevate-devex-metric-discovery)
+**[🌐 Try it out](https://tzipischindler.github.io/elevate-devex-metric-discovery/kpi-prep.html)**
 
 A discovery tool for product and engineering teams to have conversations, and find the right actions, aligning developer experince with buisness value.
 
@@ -28,6 +29,8 @@ It helps teams explore the relationship between technical debt, delivery practic
 > Use it with your team to start a more meaningful conversation about how you work and deliver as a team.
 
 ### [Elevate Idea Scorer](https://github.com/tzipischindler/elevate-idea-scorer) 
+**[🌐 See how it works](https://tzipischindler.github.io/elevate-idea-scorer/idea-scorer.html?mode=demo)**  
+**[🌐 Try it out](https://tzipischindler.github.io/elevate-idea-scorer/idea-scorer.html)**
 
 A flexible rubric for deciding which idea or project to pursue next.
 
