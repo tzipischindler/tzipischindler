@@ -13,7 +13,7 @@ These projects are me exploring what that is, turning conversations into things,
 ## Selected work
 
 ### [Hope-Driven Leadership](https://github.com/tzipischindler/hope-driven-leadership) 
-**[🌐 View my website](https://tzipischindler.github.io/hope-driven-leadership)**
+**[🌐 View my website - WIP](https://tzipischindler.github.io/hope-driven-leadership)**
 
 A personal business card and interactive portfolio that introduces the skills, experience, values, and ways of thinking I bring to organizations.
 
