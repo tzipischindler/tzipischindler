@@ -1,16 +1,14 @@
 # Hi, I'm Tzipi Schindler
 
-### Practical dreamer that oscillates from having important conversations to making change happen.
+### Practical dreamer that oscillates between having important conversations to making change happen.
 
 > Let’s turn impactful ideas into a reality, for a better world.
 
 ## About me
 
-I want to help create safe, collaborative environments where people can be themselves and thrive—without losing sight of business needs or the importance of strategic prioritization.
+I want create safe, collaborative environments where people can be themselves and thrive, without losing sight of business needs or the importance of strategic prioritization.
 
-These days, I’m not only thinking about those ideas—I’m building with them. My projects explore developer experience, product decision-making, community problem-solving, and hope-driven leadership.
-
-I’m a practical dreamer who enjoys turning ideas into useful tools, better decisions, and stronger communities.
+These projects are me exploring what that is, turning conversations into things, while exploring developer experience, product decision-making, community problem-solving and holistic leadership.
 
 ## Selected work
 
@@ -22,11 +20,11 @@ It reflects my approach to helping companies improve collaboration, team health,
 
 ### [Elevate DevEx Metric Discovery](https://github.com/tzipischindler/elevate-devex-metric-discovery)
 
-A discovery tool for product and engineering teams to identify which Developer Experience metric they should start tracking.
+A discovery tool for product and engineering teams to have conversations, and find the right actions, aligning developer experince with buisness value.
 
 It helps teams explore the relationship between technical debt, delivery practices, organizational decisions, and the day-to-day health of engineering work. The tool turns the result into a presentation and a team survey, making it easier to bring different perspectives into the conversation and decide what to improve together.
 
-> Use it with your team to start a more meaningful conversation about DevEx.
+> Use it with your team to start a more meaningful conversation about how you work and deliver as a team.
 
 ### [Elevate Idea Scorer](https://github.com/tzipischindler/elevate-idea-scorer)
 
