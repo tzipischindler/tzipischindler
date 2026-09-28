@@ -12,7 +12,7 @@ These projects are me exploring what that is, turning conversations into things,
 
 ## Selected work
 
-### [Hope-Driven Leadership](https://github.com/tzipischindler/hope-driven-leadership)
+### [Hope-Driven Leadership](https://github.com/tzipischindler/hope-driven-leadership) **[🌐 View the website](https://tzipischindler.github.io/hope-driven-leadership/hope-driven-leadership.html)**
 
 A personal business card and interactive portfolio that introduces the skills, experience, values, and ways of thinking I bring to organizations.
 
@@ -26,13 +26,14 @@ It helps teams explore the relationship between technical debt, delivery practic
 
 > Use it with your team to start a more meaningful conversation about how you work and deliver as a team.
 
-### [Elevate Idea Scorer](https://github.com/tzipischindler/elevate-idea-scorer)
+### [Elevate Idea Scorer](https://github.com/tzipischindler/elevate-idea-scorer) 
 
 A flexible rubric for deciding which idea or project to pursue next.
 
 Inspired by the Lean Canvas, it helps compare ideas across problem clarity, solution strength, unique value, unfair advantage, customer segments, existing alternatives, feasibility, audience relatability, and career or portfolio fit.
 
 Created for a hackathon and shared with the community, it reflects my approach to product thinking: strategic and evidence-informed, while still making space for personal experience, values, and purpose.
+
 
 ## What I care about
 
