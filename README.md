@@ -6,7 +6,7 @@
 
 ## About me
 
-I want create safe, collaborative environments where people can be themselves and thrive, without losing sight of business needs or the importance of strategic prioritization.
+I create safe, collaborative environments where people can be themselves and thrive, without losing sight of business needs or the importance of strategic prioritization.
 
 These projects are me exploring what that is, turning conversations into things, while exploring developer experience, product decision-making, community problem-solving and holistic leadership.
 
