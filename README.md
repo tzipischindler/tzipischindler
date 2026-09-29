@@ -22,7 +22,7 @@ It reflects my approach to helping companies improve collaboration, team health,
 ### [Elevate DevEx Metric Discovery](https://github.com/tzipischindler/elevate-devex-metric-discovery)
 **[🌐 Try it out](https://tzipischindler.github.io/elevate-devex-metric-discovery/kpi-prep.html)**
 
-A discovery tool for product and engineering teams to have conversations, and find the right actions, aligning developer experince with buisness value.
+A discovery tool that helps product and engineering teams have conversations and find the right actions to align developer experience with business value.
 
 It helps teams explore the relationship between technical debt, delivery practices, organizational decisions, and the day-to-day health of engineering work. The tool turns the result into a presentation and a team survey, making it easier to bring different perspectives into the conversation and decide what to improve together.
 
@@ -34,7 +34,7 @@ It helps teams explore the relationship between technical debt, delivery practic
 
 A flexible rubric for deciding which idea or project to pursue next.
 
-Inspired by the Lean Canvas, it helps compare ideas across problem clarity, solution strength, unique value, unfair advantage, customer segments, existing alternatives, feasibility, audience relatability, and career or portfolio fit.
+Break down your idea using the Lean Canvas format: What problem do you want to address? What is the solution? Do you have a unique value proposition? What gives you an unfair advantage? Who are your customer segments? What already exists in the market to address this problem? Then compare ideas by personal pain, impact on others, how well existing alternatives address the problem, feasibility within your timeframe, how likely people are to relate to the problem, and how important it is to you to address it.
 
 Created for a hackathon and shared with the community, it reflects my approach to product thinking: strategic and evidence-informed, while still making space for personal experience, values, and purpose.
 
