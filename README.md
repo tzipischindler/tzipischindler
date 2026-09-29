@@ -44,9 +44,7 @@ Created for a hackathon and shared with the community, it reflects my approach t
 - Building safe, collaborative environments where people can thrive
 - Connecting product strategy with sustainable ways of working
 - Making technical debt and developer experience easier to discuss across teams
-- Turning ambiguous ideas into useful experiments and shared understanding
-- Creating with communities, not just for them
-- Leaving space for hope, curiosity, and better possibilities
+- Creating with communities, making space for hope, curiosity, and new ways of thinking
 
 ## Let’s connect
 
